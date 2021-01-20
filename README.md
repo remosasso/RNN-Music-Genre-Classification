@@ -2,7 +2,7 @@
 
  * Classify music files based on genre from the GTZAN music corpus
  * GTZAN corpus is included for easy of use
- * Use multiple layers of Recurrent Neural Nets
+ * Use multiple layers of (bidirectional) Recurrent Neural Nets
  * Implementations in PyTorch and Keras.
 
 ### Test trained RNN model
