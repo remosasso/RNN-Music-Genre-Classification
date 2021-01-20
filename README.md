@@ -1,11 +1,11 @@
-## Music Genre Classification with LSTMs
+## Music Genre Classification with RNNs
 
  * Classify music files based on genre from the GTZAN music corpus
  * GTZAN corpus is included for easy of use
- * Use multiple layers of LSTM Recurrent Neural Nets
+ * Use multiple layers of Recurrent Neural Nets
  * Implementations in PyTorch, Keras & Darknet.
 
-### Test trained LSTM model
+### Test trained RNN model
  In the `./weights/` you can find trained model weights and model architecture.
 
  To test the model on your custom audio file, run
